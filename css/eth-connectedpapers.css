@@ -1,0 +1,15 @@
+eth-connected-papers-component > div{
+    display: flex;
+    align-items: center;
+    margin-top: 2px;
+}
+eth-connected-papers-component>div>svg{
+    position: relative;
+    margin-left: -4px;
+}
+eth-connected-papers-component a.md-button{
+    color: #0f7d00;
+}
+eth-connected-papers-component a.md-button:hover,eth-connected-papers-component a.md-button:focus{
+    color: #0f7d00!important;
+}

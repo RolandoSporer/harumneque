@@ -1,0 +1,15 @@
+{
+  "name": "harumneque",
+  "main": "js/eth-connectedpapers.module.js",
+  "description": "This module integrates links to Connected Papers in Primo VE if there is a DOI.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RolandoSporer/harumneque.git"
+  },
+  "author": "FordBashirian",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "molestias"
+  ]
+}
